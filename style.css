@@ -1,0 +1,44 @@
+::-moz-selection {
+    background-color: #FF7F00;
+    color: #FFFFFF;
+}
+::selection {
+    background-color: #FF7F00;
+    color: #FFFFFF;
+}
+html, body {
+    font-family: monospace;
+    background-color: #FFBFBF;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+h1 {
+    background-color: #BF7FFF;
+    margin: 0;
+    padding: 10px;
+}
+section {
+    width: 70%;
+    background-color: #BFFFBF;
+    margin: 0;
+    padding: 10px;
+    float: left;
+    clear: right;
+    box-sizing: border-box;
+}
+asside {
+    width: 30%;
+    background-color: #BFBFFF;
+    float: right;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+p {
+    font-size: 16px;
+}
